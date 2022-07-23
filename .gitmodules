@@ -1,5 +1,6 @@
-# git submodule init
-# git submodule update --remote
+# 添加新文件:
+# git submodule add -b <branch> <url>
+# ex: git submodule add -b main https://github.com/prodigy99/merge
 
 [submodule "flcs"]
 	path = flcs
