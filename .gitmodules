@@ -1,0 +1,6 @@
+[submodule "flcs"]
+	path = flcs
+	url = https://github.com/prodigy99/flcs
+[submodule "merge"]
+	path = merge
+	url = https://github.com/prodigy99/merge
